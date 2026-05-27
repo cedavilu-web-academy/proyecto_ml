@@ -7,6 +7,7 @@
 # Cliente avanzado
 # Estamos practicando GIT - GITHUB - Para subir nuestro proyecto a la nube.
 # Estimado Gero, estoy haciendo nuevos cambiso al proyecto
+# Hola Mundo
 # Importar las librerías
 import pandas as pd
 from sklearn.cluster import KMeans
