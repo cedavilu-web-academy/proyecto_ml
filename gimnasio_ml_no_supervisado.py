@@ -5,7 +5,7 @@
 # Cliente principiante
 # Cliente regular
 # Cliente avanzado
-
+# Estamos practicando GIT - GITHUB - Para subir nuestro proyecto a la nube.
 # Importar las librerías
 import pandas as pd
 from sklearn.cluster import KMeans
